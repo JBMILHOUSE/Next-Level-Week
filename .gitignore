@@ -1,2 +1,5 @@
 
 web/yarn.lock
+node_modules
+server/yarn.lock
+yarn.lock
